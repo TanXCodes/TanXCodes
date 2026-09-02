@@ -15,26 +15,55 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 👨‍💻 About Me
+
+- 🔭 Currently building **interactive web platforms & data dashboards**
+- 📊 Creator of **[PyClimaExplorer (EXE303)](https://github.com/TanXCodes/EXE303)** for climate datasets
+- 💬 Ask me about **Frontend Engineering, Python Tooling, or Modern Web UI**
+- 📫 Contact: **tanayd007@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanXCodes&theme=tokyo-night&hide_border=true&area=true" alt="Tanay's Activity Graph" width="100%" />
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" alt="Languages" /> |
+| **Frameworks & Web** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" alt="Frameworks" /> |
+| **Data & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" /> |
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanXCodes&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanXCodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TanXCodes/TanXCodes/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanXCodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 Featured Projects
 
-```yaml
-name: Tanay Dubey
-location: Uttar Pradesh, India
-role: Full-Stack & Data Analytics Developer
-primary_stack: TypeScript, Python, React, Next.js, Streamlit
-interests: [Interactive UI/UX, Climate Data, Dashboards, Web Apps]
-status: Open for collaborations & new opportunities
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🌍 PyClimaExplorer (EXE303)** | Interactive climate data visualization platform for complex environmental datasets. | `Python` `Streamlit` `Plotly` `Xarray` | [Repository](https://github.com/TanXCodes/EXE303) |
+| **🍽️ Ember Leaf Fine Dining** | Modern digital experience and sleek ordering interface for high-end dining. | `TypeScript` `React` `Tailwind` | [Repository](https://github.com/TanXCodes/ember-leaf-fine-dining) |
+| **✈️ Travel Sim Analytics** | High-performance interactive dashboard for travel simulation analytics and metrics. | `HTML` `JavaScript` `Charts` | [Repository](https://github.com/TanXCodes/Travel-Sim-Analytics-Dashboard) |
+| **💼 Developer Portfolio** | Showcase of projects, background, technical skills, and design aesthetics. | `TypeScript` `React` `CSS` | [Repository](https://github.com/TanXCodes/Portfolio) |
+
+---
+
+<div align="center">
+  <i>⚡ Code is like humor. When you have to explain it, it’s bad.</i>
+</div>
