@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanay-dubey-74086b25b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanayd007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/TanXCodes/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://tanayxportfolio.vercel.app/)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E90FA&center=true&vCenter=true&width=520&lines=Building+interactive+web+applications;Passionate+about+climate+data+and+analytics;Exploring+TypeScript+and+Python+ecosystems;Turning+complex+data+into+clean+insights" alt="Typing SVG" />
